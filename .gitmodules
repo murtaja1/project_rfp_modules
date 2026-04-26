@@ -1,6 +1,6 @@
 [submodule "project_rfp_ai"]
 	path = project_rfp_ai
-	url = git@github.com:Alifaleh/project_rfp_ai.git
+	url = https://github.com/Alifaleh/project_rfp_ai.git
 [submodule "vendor_rfp_portal"]
 	path = vendor_rfp_portal
-	url = git@github.com:murtaja1/vendor_rfp_portal.git
+	url = https://github.com/murtaja1/vendor_rfp_portal.git
